@@ -39,7 +39,7 @@ namespace SNSimplev7.Models
 
 
          public virtual ICollection<MyMessages> MyMessages { get; set; }
-        //public virtual ICollection<Enrollment> Enrollments { get; set; }
+     
     }
 
 
